@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>518643848803-pcofr1gkdg8q7c3r8lm0g24u0a4u6v1i.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.518643848803-pcofr1gkdg8q7c3r8lm0g24u0a4u6v1i</string>
+	<key>API_KEY</key>
+	<string>AIzaSyAmBurBQTaQeMHAJcZ29tJnkq2DiEhCDNk</string>
+	<key>GCM_SENDER_ID</key>
+	<string>518643848803</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.acuamod.ejemploDeDatos</string>
+	<key>PROJECT_ID</key>
+	<string>datos-afe0c</string>
+	<key>STORAGE_BUCKET</key>
+	<string>datos-afe0c.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:518643848803:ios:ba370afdb72184e8</string>
+	<key>DATABASE_URL</key>
+	<string>https://datos-afe0c.firebaseio.com</string>
+</dict>
+</plist>

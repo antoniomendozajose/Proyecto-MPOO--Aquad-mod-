@@ -1,0 +1,6 @@
+framework module Pods_prueba2_0 {
+  umbrella header "Pods-prueba2.0-umbrella.h"
+
+  export *
+  module * { export * }
+}
